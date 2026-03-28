@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.mp4
+*.csv
+static/uploads/
+static/outputs/
+
+# YOLO model weights (large files - download separately)
+*.pt
+
+# Test images
+t.jpg
+t1.jpg
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
