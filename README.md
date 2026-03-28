@@ -41,7 +41,7 @@ Open **http://127.0.0.1:5000** in your browser.
 ## 📁 Project Structure
 
 ```
-ArifVS-clone/
+Hustlerkrishna1/
 ├── demo.py              # Main Flask application
 ├── app.py               # Alternate app entry
 ├── templates/
